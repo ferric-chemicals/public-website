@@ -938,6 +938,10 @@ article {
   display: block;
   min-height: 250px;
 }
+.blog-post-image.partner-ship {
+  background: url("/images/partner-ship.jpg") !important;
+  background-repeat: no-repeat;
+}
 .sidebar {
   padding-top: 60px;
 }

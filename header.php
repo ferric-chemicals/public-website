@@ -87,6 +87,7 @@
                             <li><a href="about.php">About Us</a></li>
                             <li><a href="clients.php">Clients</a></li>
                             <li><a href="products.php">Products</a></li>
+                            <li><a href="distributor.php">Sell Sanitizer</a>
                             <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </div>
