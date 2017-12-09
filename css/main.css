@@ -139,9 +139,14 @@ a:hover {
   opacity: 0;
 }
 #hero-area {
-  padding: 230px 0;
+  background: #e0e0e0;
+  background: url('/images/bg_cover.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 150px 0 50px 0;
   color: #fff;
   position: relative;
+  border-bottom: 1px solid #eee;
 }
 #hero-area:before {
   content: '';
@@ -180,7 +185,6 @@ a:hover {
   border: none;
   color: #fff;
   padding: 20px 35px;
-  margin-top: 30px;
   font-size: 16px;
   font-size: 13px;
   line-height: 1em;
@@ -248,7 +252,6 @@ a:hover {
   max-width: 100%;
 }
 .works {
-  padding: 80px 0;
   background: #FCFCFC;
 }
 .works .block {
@@ -517,6 +520,9 @@ figure figcaption p {
 }
 .cd-headline.slide .cd-words-wrapper {
   color: #02bdd5;
+  font-size: 20px;
+  text-align: center;
+  line-height: 25px;
 }
 ul.social-icons {
   height: auto;
