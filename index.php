@@ -96,52 +96,6 @@ Slider Section Start
                 </figure>
             </div>
             <div class="col-sm-4 col-xs-12">
-                <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
-                    <div class="img-wrapper">
-                        <img src="images/portfolio/item-3.jpg" class="img-responsive" alt="Sanitizer (50ML) Bottle" >
-                        <div class="overlay">
-                            <div class="buttons">
-                                <a href="/contact.php?product=sanitizer_50_ml_bottle">Get Quote</a>
-                                <a href="sanitizer_50_ml_bottle.php">Details</a>
-                            </div>
-                        </div>
-                    </div>
-                    <figcaption>
-                    <h4>
-                    <a href="sanitizer_50_ml_bottle.php">
-                        Sanitizer (50ML) in Bottle
-                    </a>
-                    </h4>
-                    <p>
-                        Available in two colors (White and Pink)
-                    </p>
-                    </figcaption>
-                </figure>
-            </div>
-            <div class="col-sm-4 col-xs-12">
-                <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
-                    <div class="img-wrapper">
-                        <img src="images/portfolio/item-4.jpg" class="img-responsive" alt="" >
-                        <div class="overlay">
-                            <div class="buttons">
-                                <a href="contact.php?product=sanitizer_100_ml_family_pack">Get Quote</a>
-                                <a href="sanitizer_100_ml_family_pack.php">Details</a>
-                            </div>
-                        </div>
-                    </div>
-                    <figcaption>
-                    <h4>
-                    <a href="sanitizer_100_ml_family_pack.php">
-                        Sanitizer (100 ML) Family Pack
-                    </a>
-                    </h4>
-                    <p>
-                        Available in three colors (White, Blue and Pink)
-                    </p>
-                    </figcaption>
-                </figure>
-            </div>
-            <div class="col-sm-4 col-xs-12">
                 <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
                     <div class="img-wrapper">
                         <img src="images/portfolio/item-5.jpg" class="img-responsive" alt="" >
@@ -164,76 +118,10 @@ Slider Section Start
                     </figcaption>
                 </figure>
             </div>
-            <div class="col-sm-4 col-xs-12">
-                <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1200ms">
-                    <div class="img-wrapper">
-                        <img src="images/portfolio/item-6.jpg" class="img-responsive" alt="" >
-                        <div class="overlay">
-                            <div class="buttons">
-                                <a href="contact.php?product=sanitizer_500_mml_jumbo">Get Quote</a>
-                                <a href="sanitizer_500_mml_jumbo.php">Details</a>
-                            </div>
-                        </div>
-                    </div>
-                    <figcaption>
-                    <h4>
-                    <a href="sanitizer_500_mml_jumbo.php">
-                        Sanitizer (500 ML) Jumbo Pack
-                    </a>
-                    </h4>
-                    <p>
-                        Available in three colors (White, Blue and Pink)
-                    </p>
-                    </figcaption>
-                </figure>
-            </div>
-            <div class="col-sm-4 col-xs-12">
-                <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
-                    <div class="img-wrapper">
-                        <img src="images/portfolio/item-7.jpg" class="img-responsive" alt="" >
-                        <div class="overlay">
-                            <div class="buttons">
-                                <a href="contact.php?product=sanitizer_1_ltr">Get Quote</a>
-                                <a href="sanitizer_1_ltr.php">Details</a>
-                            </div>
-                        </div>
-                    </div>
-                    <figcaption>
-                    <h4>
-                    <a href="sanitizer_1_ltr.php">
-                        Sanitizer (1 Liter) Large Pack
-                    </a>
-                    </h4>
-                    <p>
-                        Available in three colors (White, Blue and Pink)
-                    </p>
-                    </figcaption>
-                </figure>
-            </div>
-            <div class="col-sm-4 col-xs-12">
-                <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
-                    <div class="img-wrapper">
-                        <img src="images/portfolio/item-8.jpg" class="img-responsive" alt="" >
-                        <div class="overlay">
-                            <div class="buttons">
-                                <a href="contact.php?product=sanitizer_5_ltr">Get Quote</a>
-                                <a href="sanitizer_5_ltr.php">Details</a>
-                            </div>
-                        </div>
-                    </div>
-                    <figcaption>
-                    <h4>
-                    <a href="sanitizer_5_ltr.php">
-                        Sanitizer (5 Liter) Large Pack
-                    </a>
-                    </h4>
-                    <p>
-                        Available in three colors (White, Blue and Pink)
-                    </p>
-                    </figcaption>
-                </figure>
-            </div>
         </div>
+        <br/><br/>
+        <center><a href="products.php" class="btn btn-lg btn-info">See All Products</a></center>
+        <br/><br/><br/>
     </div>
 </section> <!-- #works -->
 
