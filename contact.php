@@ -1,6 +1,16 @@
 <?php
 $pageTitle = "Contact Us";
 include_once("header.php");
+
+$products = [];
+$products["sachet_1_5_ml"] = ["name" => "Sachet 1.5 ML Sanitizer"];
+$products["band_sanitizer_30_ml"] = ["name" => "Sanitizer 30 ML (Band)"];
+$products["sanitizer_50_ml_bottle"] = ["name" => "Sanitizer 50 ML (Bottle)"];
+$products["sanitizer_100_ml_family_pack"] = ["name" => "Sanitizer 100 ML (Family Pack)"];
+$products["sanitizer_250_ml_family_pack"] = ["name" => "Sanitizer 250 ML (Family Pack)"];
+$products["sanitizer_500_ml_jumbo"] = ["name" => "Sanitizer 500 ML (Jumbo Large)"];
+$products["sanitizer_1_ltr"] = ["name" => "Sanitizer 1 Liter (Large Bottle)"];
+$products["sanitizer_5_ltr"] = ["name" => "Sanitizer 5 Liter (Large Pack)"];
 ?>
 
 <!--  Page Content  -->
@@ -41,7 +51,7 @@ include_once("header.php");
                     <?php if(!isset($_GET["submit"])) {?>
                     <div class="contact-form">
                         <form id="contact-form" method="post" action="https://formspree.io/ferric.chemicals@gmail.com" role="form">
-                
+                            
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
                                 <input type="text" placeholder="Your Name" class="form-control" required="required" name="name" id="name">
                             </div>
@@ -61,6 +71,20 @@ include_once("header.php");
                                 <textarea rows="6" placeholder="Message" class="form-control" required="required" name="message" id="message"></textarea>    
                             </div>
                             <input type="hidden" name="_next" value="//<?php echo $_SERVER['HTTP_HOST'];?>/contact.php?submit=done" />
+
+
+                            <?php if(isset($_GET["product"]) && isset($products[$_GET['product']])) { ?> 
+                                <input type="hidden" name="for_product" value="<?php echo $products[$_GET['product']]['name'];?>"/>
+                                <p><i>Inquiry for product: </i> <b><?php echo $products[$_GET['product']]['name'];?></b></p> 
+                                 <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.2s">
+                                    <input type="number" placeholder="Quantity required" name="order_qty" required="required"/>
+                                </div>
+                            <?php } ?>
+
+                            <?php if(isset($_GET['type']) && $_GET['type'] == "partnership"){ ?>
+                                <b>Requesting for Sell Sanitizer</b>
+                                <input type="hidden" name="partnership" value="Requested for partnership"/>
+                            <?php } ?>
                             
                             <div id="submit" class="wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.4s">
                                 <input type="submit" id="contact-submit" class="btn btn-default btn-send" value="Send Message">
