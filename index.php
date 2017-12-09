@@ -56,13 +56,13 @@ Slider Section Start
                         <div class="overlay">
                             <div class="buttons">
                                 <a href="contact.php?product=sachet_1_5_ml">Get Quote</a>
-                                <a href="sachet_1_5_ml.php">Details</a>
+                                <a href="product-detail.php?product=sachet_1_5_ml">Details</a>
                             </div>
                         </div>
                     </div>
                     <figcaption>
                     <h4>
-                    <a href="sachet_1_5_ml.php">
+                    <a href="product-detail.php?product=sachet_1_5_ml">
                         Sachet (1.5ML)
                     </a>
                     </h4>
@@ -79,13 +79,13 @@ Slider Section Start
                         <div class="overlay">
                             <div class="buttons">
                                 <a href="/contact.php?product=band_sanitizer_30_ml">Get Quote</a>
-                                <a href="band_sanitizer_30_ml.php">Details</a>
+                                <a href="product-detail.php?product=band_sanitizer_30_ml">Details</a>
                             </div>
                         </div>
                     </div>
                     <figcaption>
                     <h4>
-                    <a href="band_sanitizer_30_ml.php">
+                    <a href="product-detail.php?product=band_sanitizer_30_ml">
                         Band Sanitizer (30 ML)
                     </a>
                     </h4>
@@ -102,13 +102,13 @@ Slider Section Start
                         <div class="overlay">
                             <div class="buttons">
                                 <a href="contact.php?product=sanitizer_250_ml_family_pack">Get Quote</a>
-                                <a href="sanitizer_250_ml_family_pack.php">Details</a>
+                                <a href="product-detail.php?product=sanitizer_250_ml_family_pack">Details</a>
                             </div>
                         </div>
                     </div>
                     <figcaption>
                     <h4>
-                    <a href="sanitizer_250_ml_family_pack.php">
+                    <a href="product-detail.php?product=sanitizer_250_ml_family_pack">
                         Sanitizer (250 ML) Family Pack
                     </a>
                     </h4>

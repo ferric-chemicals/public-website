@@ -37,13 +37,13 @@ include_once("header.php");
                         <div class="overlay">
                             <div class="buttons">
                                 <a href="contact.php?product=sachet_1_5_ml">Get Quote</a>
-                                <a href="sachet_1_5_ml.php">Details</a>
+                                <a href="product-detail.php?product=sachet_1_5_ml">Details</a>
                             </div>
                         </div>
                     </div>
                     <figcaption>
                     <h4>
-                    <a href="sachet_1_5_ml.php">
+                    <a href="product-detail.php?product=sachet_1_5_ml">
                         Sachet (1.5ML)
                     </a>
                     </h4>
@@ -60,13 +60,13 @@ include_once("header.php");
                         <div class="overlay">
                             <div class="buttons">
                                 <a href="/contact.php?product=band_sanitizer_30_ml">Get Quote</a>
-                                <a href="band_sanitizer_30_ml.php">Details</a>
+                                <a href="product-detail.php?product=band_sanitizer_30_ml">Details</a>
                             </div>
                         </div>
                     </div>
                     <figcaption>
                     <h4>
-                    <a href="band_sanitizer_30_ml.php">
+                    <a href="product-detail.php?product=band_sanitizer_30_ml">
                         Band Sanitizer (30 ML)
                     </a>
                     </h4>
@@ -83,13 +83,13 @@ include_once("header.php");
                         <div class="overlay">
                             <div class="buttons">
                                 <a href="/contact.php?product=sanitizer_50_ml_bottle">Get Quote</a>
-                                <a href="sanitizer_50_ml_bottle.php">Details</a>
+                                <a href="product-detail.php?product=sanitizer_50_ml_bottle">Details</a>
                             </div>
                         </div>
                     </div>
                     <figcaption>
                     <h4>
-                    <a href="sanitizer_50_ml_bottle.php">
+                    <a href="product-detail.php?product=sanitizer_50_ml_bottle">
                         Sanitizer (50ML) in Bottle
                     </a>
                     </h4>
@@ -106,13 +106,13 @@ include_once("header.php");
                         <div class="overlay">
                             <div class="buttons">
                                 <a href="contact.php?product=sanitizer_100_ml_family_pack">Get Quote</a>
-                                <a href="sanitizer_100_ml_family_pack.php">Details</a>
+                                <a href="product-detail.php?product=sanitizer_100_ml_family_pack">Details</a>
                             </div>
                         </div>
                     </div>
                     <figcaption>
                     <h4>
-                    <a href="sanitizer_100_ml_family_pack.php">
+                    <a href="product-detail.php?product=sanitizer_100_ml_family_pack">
                         Sanitizer (100 ML) Family Pack
                     </a>
                     </h4>
@@ -129,13 +129,13 @@ include_once("header.php");
                         <div class="overlay">
                             <div class="buttons">
                                 <a href="contact.php?product=sanitizer_250_ml_family_pack">Get Quote</a>
-                                <a href="sanitizer_250_ml_family_pack.php">Details</a>
+                                <a href="product-detail.php?product=sanitizer_250_ml_family_pack">Details</a>
                             </div>
                         </div>
                     </div>
                     <figcaption>
                     <h4>
-                    <a href="sanitizer_250_ml_family_pack.php">
+                    <a href="product-detail.php?product=sanitizer_250_ml_family_pack">
                         Sanitizer (250 ML) Family Pack
                     </a>
                     </h4>
@@ -151,14 +151,14 @@ include_once("header.php");
                         <img src="images/portfolio/item-6.jpg" class="img-responsive" alt="" >
                         <div class="overlay">
                             <div class="buttons">
-                                <a href="contact.php?product=sanitizer_500_mml_jumbo">Get Quote</a>
-                                <a href="sanitizer_500_mml_jumbo.php">Details</a>
+                                <a href="contact.php?product=sanitizer_500_ml_jumbo">Get Quote</a>
+                                <a href="product-detail.php?product=sanitizer_500_ml_jumbo">Details</a>
                             </div>
                         </div>
                     </div>
                     <figcaption>
                     <h4>
-                    <a href="sanitizer_500_mml_jumbo.php">
+                    <a href="product-detail.php?product=sanitizer_500_ml_jumbo">
                         Sanitizer (500 ML) Jumbo Pack
                     </a>
                     </h4>
@@ -175,13 +175,13 @@ include_once("header.php");
                         <div class="overlay">
                             <div class="buttons">
                                 <a href="contact.php?product=sanitizer_1_ltr">Get Quote</a>
-                                <a href="sanitizer_1_ltr.php">Details</a>
+                                <a href="product-detail.php?product=sanitizer_1_ltr">Details</a>
                             </div>
                         </div>
                     </div>
                     <figcaption>
                     <h4>
-                    <a href="sanitizer_1_ltr.php">
+                    <a href="product-detail.php?product=sanitizer_1_ltr">
                         Sanitizer (1 Liter) Large Pack
                     </a>
                     </h4>
@@ -198,13 +198,13 @@ include_once("header.php");
                         <div class="overlay">
                             <div class="buttons">
                                 <a href="contact.php?product=sanitizer_5_ltr">Get Quote</a>
-                                <a href="sanitizer_5_ltr.php">Details</a>
+                                <a href="product-detail.php?product=sanitizer_5_ltr">Details</a>
                             </div>
                         </div>
                     </div>
                     <figcaption>
                     <h4>
-                    <a href="sanitizer_5_ltr.php">
+                    <a href="product-detail.php?product=sanitizer_5_ltr">
                         Sanitizer (5 Liter) Large Pack
                     </a>
                     </h4>
